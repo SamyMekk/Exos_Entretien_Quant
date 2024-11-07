@@ -140,36 +140,6 @@
     ]
   },
   {
-    "objectID": "references.html",
-    "href": "references.html",
-    "title": "References",
-    "section": "",
-    "text": "Réference 1 :\nRéférence 2 :",
-    "crumbs": [
-      "References"
-    ]
-  },
-  {
-    "objectID": "autres.html",
-    "href": "autres.html",
-    "title": "6  Questions posées dans d’autres entreprises",
-    "section": "",
-    "text": "6.1 Test",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
-    ]
-  },
-  {
-    "objectID": "autres.html#test-1",
-    "href": "autres.html#test-1",
-    "title": "6  Questions posées dans d’autres entreprises",
-    "section": "6.2 Test",
-    "text": "6.2 Test",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
-    ]
-  },
-  {
     "objectID": "vrac.html#calcul-stochastique",
     "href": "vrac.html#calcul-stochastique",
     "title": "5  Questions en vrac",
@@ -197,6 +167,36 @@
     "text": "5.4 Programmation",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html",
+    "href": "autres.html",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "",
+    "text": "6.1 Test",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html#test-1",
+    "href": "autres.html#test-1",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "6.2 Test",
+    "text": "6.2 Test",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Réference 1 :\nRéférence 2 :",
+    "crumbs": [
+      "References"
     ]
   }
 ]
