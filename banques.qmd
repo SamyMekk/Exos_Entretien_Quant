@@ -8,8 +8,8 @@ Test ici
 
 **Exercice n°1 : ** 
 
-Considérez une suite de variables aléatoires :  $$X_1,\ldots,X_n$$.
-Test
+Considérez une suite de variables aléatoires :  $$X_1,\ldots,X_n$$. 
+Ils vérifient une certaine propriété que nous allons regarder.
 \begin{align}
 f(x)=x^{2}
 \end{align}

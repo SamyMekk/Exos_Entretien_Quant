@@ -1,20 +1,34 @@
 project:
   type: book
 
+
+website:
+  favicon: images/logoUP.png
+
 book:
   title: "Recueil Questions Entretien Quant"
   author: "Samy Mekkaoui"
   date: today
+  repo-url: "https://github.com/SamyMekk/Exos_Entretien_Quant"
+  downloads: pdf
   chapters:
-    - index.qmd
-    - TestSG.qmd
-    - banques.qmd
-    - summary.qmd
+     - index.qmd
+     - TesTSG.qmd
+     - banques.qmd
+     - summary.qmd
+     - references.qmd
+    
+  sidebar:
+    style: docked
+    logo: "images/logoUP.png"
+
 format:
   html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+    mainfont: "Computer Modern Serif"
+    theme:
+      light: simplex
+      dark: solar
 
+bibliography: references.bib
 
 
