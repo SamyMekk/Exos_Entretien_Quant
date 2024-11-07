@@ -1,3 +1,12 @@
-# Vrac 
+# Questions en vrac 
 
-Test
+## Probabilités
+
+
+## Calcul stochastique
+
+
+## Machine Learning
+
+
+## Programmation

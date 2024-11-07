@@ -17,6 +17,7 @@ book:
      - fonds.qmd
      - conseil.qmd
      - vrac.qmd
+     - autres.qmd
      - references.qmd
     
   sidebar:
