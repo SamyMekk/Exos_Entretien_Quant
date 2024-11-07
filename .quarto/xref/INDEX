@@ -32,12 +32,15 @@
     "Vrac.html": "eb18a838"
   },
   "fonds.qmd": {
-    "Fonds.html": "66252de7"
+    "Fonds.html": "66252de7",
+    "fonds.html": "ec163fa9"
   },
   "conseil.qmd": {
-    "Conseil.html": "bea54bca"
+    "Conseil.html": "bea54bca",
+    "conseil.html": "0c12ab6a"
   },
   "vrac.qmd": {
-    "Vrac.html": "334f8df9"
+    "Vrac.html": "334f8df9",
+    "vrac.html": "a43a042e"
   }
 }
