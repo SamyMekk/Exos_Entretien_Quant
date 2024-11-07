@@ -10,11 +10,13 @@ book:
   author: "Samy Mekkaoui"
   date: today
   repo-url: "https://github.com/SamyMekk/Exos_Entretien_Quant"
-  downloads: pdf
   chapters:
      - index.qmd
      - TesTSG.qmd
      - banques.qmd
+     - Fonds.qmd
+     - Conseil.qmd
+     - Vrac.qmd
      - summary.qmd
      - references.qmd
     
