@@ -12,12 +12,11 @@ book:
   repo-url: "https://github.com/SamyMekk/Exos_Entretien_Quant"
   chapters:
      - index.qmd
-     - TesTSG.qmd
+     - TestSG.qmd
      - banques.qmd
-     - Fonds.qmd
-     - Conseil.qmd
-     - Vrac.qmd
-     - summary.qmd
+     - fonds.qmd
+     - conseil.qmd
+     - vrac.qmd
      - references.qmd
     
   sidebar:

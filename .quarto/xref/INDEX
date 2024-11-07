@@ -12,7 +12,8 @@
     "references.html": "23c91b7b"
   },
   "TestSG.qmd": {
-    "TestSG.html": "2e3258e3"
+    "TestSG.html": "2e3258e3",
+    "TesTSG.html": "3be2aa98"
   },
   "banques.qmd": {
     "banques.html": "bf7e4451"
@@ -29,5 +30,14 @@
   },
   "Vrac.qmd": {
     "Vrac.html": "eb18a838"
+  },
+  "fonds.qmd": {
+    "Fonds.html": "66252de7"
+  },
+  "conseil.qmd": {
+    "Conseil.html": "bea54bca"
+  },
+  "vrac.qmd": {
+    "Vrac.html": "334f8df9"
   }
 }
