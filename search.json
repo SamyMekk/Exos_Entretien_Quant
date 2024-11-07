@@ -62,81 +62,131 @@
   {
     "objectID": "banques.html",
     "href": "banques.html",
-    "title": "2  Annales Test Ecrit SG",
+    "title": "2  Questions posées en banques d’investissement",
     "section": "",
     "text": "2.1 Test Ecrit 2024-2025 :\nCette page contient les annales du test-écrit de la Société Générale sur les dernières années. Test ici\nExercice n°1 :\nConsidérez une suite de variables aléatoires : \\[X_1,\\ldots,X_n\\]. Ils vérifient une certaine propriété que nous allons regarder. \\[\\begin{align}\nf(x)=x^{2}\n\\end{align}\\]",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annales Test Ecrit SG</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
   },
   {
     "objectID": "banques.html#test-ecrit-2023-2024",
     "href": "banques.html#test-ecrit-2023-2024",
-    "title": "2  Annales Test Ecrit SG",
+    "title": "2  Questions posées en banques d’investissement",
     "section": "2.2 Test Ecrit 2023-2024 :",
     "text": "2.2 Test Ecrit 2023-2024 :",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annales Test Ecrit SG</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
   },
   {
     "objectID": "banques.html#test-ecrit-2022-2023",
     "href": "banques.html#test-ecrit-2022-2023",
-    "title": "2  Annales Test Ecrit SG",
+    "title": "2  Questions posées en banques d’investissement",
     "section": "2.3 Test Ecrit 2022-2023 :",
     "text": "2.3 Test Ecrit 2022-2023 :",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annales Test Ecrit SG</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
   },
   {
     "objectID": "banques.html#test-ecrit-2021-2022",
     "href": "banques.html#test-ecrit-2021-2022",
-    "title": "2  Annales Test Ecrit SG",
+    "title": "2  Questions posées en banques d’investissement",
     "section": "2.4 Test Ecrit 2021-2022 :",
     "text": "2.4 Test Ecrit 2021-2022 :",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annales Test Ecrit SG</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
   },
   {
     "objectID": "banques.html#test-ecrit-2020-2021",
     "href": "banques.html#test-ecrit-2020-2021",
-    "title": "2  Annales Test Ecrit SG",
+    "title": "2  Questions posées en banques d’investissement",
     "section": "2.5 Test Ecrit 2020-2021 :",
     "text": "2.5 Test Ecrit 2020-2021 :",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Annales Test Ecrit SG</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Questions posées en banques d'investissement</span>"
     ]
   },
   {
     "objectID": "fonds.html",
     "href": "fonds.html",
-    "title": "3  fonds",
+    "title": "3  Questions posées en fonds d’investissement",
     "section": "",
     "text": "Test",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>fonds</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
     ]
   },
   {
     "objectID": "conseil.html",
     "href": "conseil.html",
-    "title": "4  Conseil",
+    "title": "4  Questions posées en cabinet de conseil",
     "section": "",
     "text": "Test",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Conseil</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Questions posées en cabinet de conseil</span>"
     ]
   },
   {
     "objectID": "vrac.html",
     "href": "vrac.html",
-    "title": "5  Vrac",
+    "title": "5  Questions en vrac",
     "section": "",
-    "text": "Test",
+    "text": "5.1 Probabilités",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Vrac</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#calcul-stochastique",
+    "href": "vrac.html#calcul-stochastique",
+    "title": "5  Questions en vrac",
+    "section": "5.2 Calcul stochastique",
+    "text": "5.2 Calcul stochastique",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#machine-learning",
+    "href": "vrac.html#machine-learning",
+    "title": "5  Questions en vrac",
+    "section": "5.3 Machine Learning",
+    "text": "5.3 Machine Learning",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "vrac.html#programmation",
+    "href": "vrac.html#programmation",
+    "title": "5  Questions en vrac",
+    "section": "5.4 Programmation",
+    "text": "5.4 Programmation",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Questions en vrac</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html",
+    "href": "autres.html",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "",
+    "text": "6.1 Test",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
+    ]
+  },
+  {
+    "objectID": "autres.html#test-1",
+    "href": "autres.html#test-1",
+    "title": "6  Questions posées dans d’autres entreprises",
+    "section": "6.2 Test",
+    "text": "6.2 Test",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Questions posées dans d'autres entreprises</span>"
     ]
   },
   {
