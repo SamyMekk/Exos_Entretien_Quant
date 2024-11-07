@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "Recueil Questions Entretien Quant"
+  author: "Samy Mekkaoui"
+  date: today
+  chapters:
+    - index.qmd
+    - TestSG.qmd
+    - banques.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
