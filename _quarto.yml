@@ -10,7 +10,6 @@ book:
     - TestSG.qmd
     - banques.qmd
     - summary.qmd
-
 format:
   html:
     theme: cosmo
