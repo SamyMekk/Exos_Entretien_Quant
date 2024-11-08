@@ -1,5 +1,5 @@
-# Preface {.unnumbered}
+# Préface {.unnumbered}
 
-This is a Quarto book.
+Ce site contient quelques questions d'entretien pour des postes de quant. Il est organisé en plusieurs sections :
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+- 
