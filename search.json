@@ -4,9 +4,9 @@
     "href": "index.html",
     "title": "Recueil Questions Entretien Quant",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.",
+    "text": "Préface\nCe site contient quelques questions d’entretien pour des postes de quant. Il est organisé en plusieurs sections :",
     "crumbs": [
-      "Preface"
+      "Préface"
     ]
   },
   {
@@ -114,7 +114,7 @@
     "href": "fonds.html",
     "title": "3  Questions posées en fonds d’investissement",
     "section": "",
-    "text": "Test",
+    "text": "Test ici",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Questions posées en fonds d'investissement</span>"
     ]
